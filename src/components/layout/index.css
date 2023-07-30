@@ -1,0 +1,7 @@
+.sub__menu:hover .collapse {
+  opacity: 1;
+  z-index: 70;
+}
+.__active__sub__menu .__icon_sub {
+  background-color: #fff;
+}

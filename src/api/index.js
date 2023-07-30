@@ -1,0 +1,6 @@
+export { default as apiAuth } from "./repository/AuthRepository"
+export { default as apiProduct } from "./repository/ProductRepository"
+export { default as apiCategory } from "./repository/CategoryRepository"
+export { default as apiSite } from "./repository/SiteRepository"
+export { default as apiRegion } from "./repository/RegionRepository"
+export { default as apiTag } from "./repository/TagRepository"

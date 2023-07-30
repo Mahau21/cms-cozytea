@@ -1,0 +1,13 @@
+.upload__vertical .ant-upload-select-picture-card {
+  width: 160px;
+  height: 90px;
+}
+.upload__horizontal .ant-upload-select-picture-card {
+  width: 90px;
+  height: 160px;
+}
+
+.upload__square .ant-upload-select-picture-card {
+  width: 160px;
+  height: 160px;
+}

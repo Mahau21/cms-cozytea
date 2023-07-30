@@ -1,0 +1,20 @@
+.setting_icon {
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    color: #1890ff;
+  }
+}
+
+.checkbox_setting {
+  .ant-checkbox-group {
+    display: block;
+    .ant-checkbox-wrapper {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+const CONSTANT = {
+  CONFIG_TYPE: "config-type",
+  CONFIG_AGE: "config-age",
+  CONFIG_MENU: "config-menu",
+  CATEGORY: "categogy",
+  NOT_STARTED: 1,
+  LIVE: 2,
+  FINISHED: 3,
+  DOING: 0,
+  SUCCESS: 1,
+  ERROR: 2,
+  CONTENT_TYPE_VOD: "VOD",
+  CONTENT_TYPE_EVENT: "EVENT",
+  CONTENT_TYPE_SERIES: "SERIES",
+  CONTENT_TYPE_CHANNEL: "CHANNEL"
+}
+
+export default CONSTANT
